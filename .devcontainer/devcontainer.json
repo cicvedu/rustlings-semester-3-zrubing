@@ -13,5 +13,8 @@
         "rust-lang.rust-analyzer"
       ]
     }
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/rust:1": {}
   }
 }
